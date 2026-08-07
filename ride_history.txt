@@ -1,0 +1,7 @@
+Driver: shyam,Vehicle: Bike,Distance: 45.0 km,Fare:470.0
+Driver: netra,Vehicle: Car,Distance: 100.0 km,Fare:2060.0
+Driver: rajan,Vehicle: Bike,Distance: 56.0 km,Fare:580.0
+Driver: ram,Vehicle: Bike,Distance: 10.0 km,Fare:120.0
+Driver: shyam,Vehicle: Car,Distance: 100.0 km,Fare:2060.0
+Driver: john,Vehicle: Bike,Distance: 1.0 km,Fare:30.0
+Driver: ram,Vehicle: Bike,Distance: 1.0 km,Fare:30.0
